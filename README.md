@@ -20,12 +20,21 @@
 
 ## 🛠️ My Stack (So Far)
 
-```bash
-Languages: HTML, CSS, JavaScript
-Frameworks: React, Express.js
-Tools: Git, VSCode, Postman
-Node.js
-Learning: MongoDB
+- 💻 **Languages**: HTML, CSS, JavaScript
+- ⚙️ **Frameworks**: React, Express.js
+- 🧰 **Tools**: Git, VSCode, Postman, Node.js
+- 📚 **Currently Learning**: MongoDB
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JoshuaIgho&show_icons=true&theme=radical" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaIgho&theme=radical" /> </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaIgho&show_icons=true&theme=radical" />
+</p>
+---
+## 🧪 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaIgho&layout=compact&theme=radical" />
+</p>
