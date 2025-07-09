@@ -12,7 +12,7 @@
 - 🎓 Studying **Computer Science** at the **Air Force Institute of Technology (AFIT)**
 - 🧠 Passionate about **software development** and **cybersecurity (CEH dreamer!)**
 - 💻 I love building cool stuff and sharing them on [GitHub](https://github.com/JoshuaIgho) and [CodePen](https://codepen.io/your-work)
-- 🌱 Currently focused on **Postgres**, **`Express**, **React.js**, and **Node.js**
+- 🌱 Currently focused on **Postgres**, **Express**, **React.js**, and **Node.js**
 - 📸 Connect with me on [Instagram](https://www.instagram.com/warrii___/)
 - ✉️ Email: `joshuaalex822@gmail.com`
 
@@ -26,3 +26,6 @@ Frameworks: React, Express.js
 Tools: Git, VSCode, Postman
 Node.js
 Learning: MongoDB
+
+## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JoshuaIgho&show_icons=true&theme=radical" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaIgho&theme=radical" /> </p>
