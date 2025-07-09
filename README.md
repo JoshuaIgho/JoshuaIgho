@@ -32,9 +32,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshuaIgho&show_icons=true&theme=radical" />
 </p>
----
-## 🧪 Most Used Languages
 
+---
+
+## 🧪 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaIgho&layout=compact&theme=radical" />
 </p>
