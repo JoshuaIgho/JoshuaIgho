@@ -9,12 +9,14 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying **Computer Science** at the **Air Force Institute of Technology (AFIT)**
-- 🧠 Passionate about **software development** and **cybersecurity (CEH dreamer!)**
-- 💻 I love building cool stuff and sharing them on [GitHub](https://github.com/JoshuaIgho) and [CodePen](https://codepen.io/your-work)
-- 🌱 Currently focused on **Postgres**, **Express**, **React.js**, and **Node.js**
-- 📸 Connect with me on [Instagram](https://www.instagram.com/warrii___/)
-- ✉️ Email: `joshuaalex822@gmail.com`
+- 🎓 I'm a **Computer Science student** at the **Air Force Institute of Technology (AFIT)**
+- 💻 I'm passionate about **software development** and have built several cool projects using modern web technologies
+- 🔐 I’m also deeply interested in **cybersecurity (ethical hacking)** and plan to pursue the **CEH (Certified Ethical Hacker)** certification after my current studies
+- 🌱 I'm currently focused on improving my **PostgreSQL, Express, React.js, and Node.js** skills
+- ✍️ I love documenting my learning journey through GitHub and sharing creative work on [CodePen](https://codepen.io/your-work)
+- 📸 I'm also active on [Instagram](https://www.instagram.com/warrii___/)  
+- 📬 Reach me at: `joshuaalex822@gmail.com`
+
 
 ---
 
