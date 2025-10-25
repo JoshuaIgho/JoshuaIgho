@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a **Computer Science student** at the **Air Force Institute of Technology (AFIT)**
+- 🎓 I'm a **Computer Science student**
 - 💻 I'm passionate about **software development** and have built several cool projects using modern web technologies
 - 🔐 I’m also deeply interested in **cybersecurity (ethical hacking)** and plan to pursue the **CEH (Certified Ethical Hacker)** certification after my current studies
 - 🌱 I'm currently focused on improving my **PostgreSQL, Express, React.js, and Node.js** skills
