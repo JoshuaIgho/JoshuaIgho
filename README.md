@@ -13,8 +13,8 @@
 - 💻 I'm passionate about **software development** and have built several cool projects using modern web technologies
 - 🔐 I’m also deeply interested in **cybersecurity (ethical hacking)** and plan to pursue the **CEH (Certified Ethical Hacker)** certification after my current studies
 - 🌱 I'm currently focused on improving my **PostgreSQL, Express, React.js, and Node.js** skills
-- ✍️ I love documenting my learning journey through GitHub and sharing creative work on [CodePen](https://codepen.io/your-work)
-- 📸 I'm also active on [X formerly known as Twitter](https://x.com/Joshua_M_codes)  
+- ✍️ I love documenting my learning journey through GitHub and sharing creative work on [X formerly known as Twitter](https://x.com/Joshua_M_codes)
+- 📸 I'm also active on [CodePen](https://codepen.io/your-work)
 - 📬 Reach me at: `joshuaalex822@gmail.com`
 
 
