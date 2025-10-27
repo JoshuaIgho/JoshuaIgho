@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer with a Passion for Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student+at+AFIT;Future+CEH+Candidate;Learning+&+Building+Daily;Love+for+Web+and+Security&font=Fira+Code&center=true&width=440&height=45&color=00F9FF&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Future+CEH+Candidate;Learning+&+Building+Daily;Love+for+Web+and+Security&font=Fira+Code&center=true&width=440&height=45&color=00F9FF&vCenter=true" />
 </p>
 
 ---
