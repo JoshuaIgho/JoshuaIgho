@@ -22,29 +22,26 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,prisma,python,git,github,postman,docker,supabase,vercel" />
+</p>
 
-HTML • CSS • JavaScript • TypeScript • Python
+<p align="center">
+  <strong>Frontend</strong> · React · Next.js · Tailwind · Vite
+  <br/>
+  <strong>Backend</strong> · Node.js · Express · REST APIs
+  <br/>
+  <strong>Database</strong> · PostgreSQL · Prisma · Supabase
+  <br/>
+  <strong>Languages</strong> · JavaScript · TypeScript · Python
+  <br/>
+  <strong>DevOps</strong> · Git · Docker · Vercel · Cloud
+</p>
 
-### Frontend
+<p align="center">
+  <i>Currently going deeper into Python, Software Engineering & DevOps.</i>
+</p>
 
-React • Next.js • Tailwind CSS
-
-### Backend
-
-Node.js • Express.js • REST APIs
-
-### Databases
-
-PostgreSQL • Prisma
-
-### Tools & Platforms
-
-Git • GitHub • Postman • VS Code • Vite • Supabase • Vercel • Render
-
-### Currently Exploring
-
-Python • Software Engineering • DevOps • Cloud
 
 ---
 
