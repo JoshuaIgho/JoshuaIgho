@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Joshua Igho</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Software Engineering Enthusiast</h3>
+<h3 align="center">Computer Science Student · Full-Stack Developer · Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full-Stack+Developer;Learning+Software+Engineering;Building+Real-World+Projects;Exploring+Python+%26+DevOps&font=Fira+Code&center=true&width=520&height=45&color=00F9FF&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Full-Stack+Developer;Building+Real-World+Software;Learning+Software+Engineering;Exploring+Python+%26+DevOps&font=Fira+Code&center=true&width=520&height=45&color=00F9FF&vCenter=true" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science student focused on building a strong foundation in **software engineering**
-* 💻 Full-Stack Developer with experience building and deploying **real-world web applications**
-* ⚙️ I enjoy working across the stack, from **frontend interfaces and APIs to databases and authentication**
-* 🐍 Currently expanding my skills with **Python** and moving deeper into software engineering
-* ☁️ Exploring **DevOps, cloud technologies, and deployment workflows**
-* 🧠 I enjoy learning by building, breaking things, fixing them, and documenting the process
-* 🌱 Always working on becoming a better developer through projects and consistent practice
-* 📬 Reach me at: `joshuaalex822@gmail.com`
+* 🎓 Computer Science student building a strong foundation in **software engineering**
+* 💻 Full-Stack Developer focused on building **functional, production-ready  applications**
+* ⚙️ I enjoy working across the stack, from **interfaces and APIs to databases, authentication, and deployment**
+* 🐍 Currently deepening my **Python** skills and strengthening my software engineering fundamentals
+* ☁️ Exploring **DevOps, cloud technologies, and modern deployment workflows**
+* 📬 `joshuaalex822@gmail.com`
 
 ---
 
@@ -26,38 +24,46 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,postgres,prisma,python,git,github,postman,docker,supabase,vercel" />
 </p>
 
-<p align="center">
-  <strong>Frontend</strong> · React · Next.js · Tailwind · Vite
-  <br/>
-  <strong>Backend</strong> · Node.js · Express · REST APIs
-  <br/>
-  <strong>Database</strong> · PostgreSQL · Prisma · Supabase
-  <br/>
-  <strong>Languages</strong> · JavaScript · TypeScript · Python
-  <br/>
-  <strong>DevOps</strong> · Git · Docker · Vercel · Cloud
-</p>
-
-<p align="center">
-  <i>Currently going deeper into Python, Software Engineering & DevOps.</i>
-</p>
-
+<table align="center">
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>React · Next.js · Tailwind CSS · Vite</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>Node.js · Express · REST APIs</td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td>PostgreSQL · Prisma · Supabase</td>
+</tr>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td>JavaScript · TypeScript · Python</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>Git · GitHub · Postman · Vercel</td>
+</tr>
+<tr>
+<td align="center"><b>Exploring</b></td>
+<td>Docker · DevOps · Cloud Engineering</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 What I Build
 
-I like building applications that go beyond static interfaces.
+I enjoy building applications that solve real problems rather than just creating static interfaces.
 
-Some of the things I've worked with include:
-
-* 🛒 E-commerce applications
-* 🔐 Authentication and authorization systems
-* 🔗 Link-sharing platforms
-* 📚 Full-stack applications
-* 🔌 REST APIs
+* 🛒 E-commerce platforms
+* 🔐 Authentication & authorization systems
+* 🔗 Link-sharing applications
+* 🔌 REST APIs & backend services
 * 🗄️ Database-driven applications
-* 🚀 Deployed applications using modern cloud platforms
+* 📱 Responsive web applications
+* 🚀 Deployed full-stack applications
 
 ---
 
@@ -79,8 +85,11 @@ Some of the things I've worked with include:
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://x.com/Joshua_M_codes" target="_blank">X</a>
-  •
-  <a href="https://codepen.io/your-work" target="_blank">CodePen</a>
+<p align="center">
+  <a href="https://x.com/Joshua_M_codes">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/your-work">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
 </p>
